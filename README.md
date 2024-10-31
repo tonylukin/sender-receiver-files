@@ -7,6 +7,7 @@ curl -X POST http://localhost:3009/send/file \
          "receiverUrl": "http://localhost:3009"
        }'
 ```
+Destination file will be assembled in [root]/output directory
 
 ## Project setup
 
